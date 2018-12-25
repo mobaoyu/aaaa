@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://F:/daily/.idea/daily.iml" filepath="F:/daily/.idea/daily.iml" />
+      <module fileurl="file://F:/django_project/.idea/django_project.iml" filepath="F:/django_project/.idea/django_project.iml" />
+      <module fileurl="file://F://information/../../untitled/.idea/information.iml" filepath="F://information/../../untitled/.idea/information.iml" />
+      <module fileurl="file://F:/test2/.idea/test2.iml" filepath="F:/test2/.idea/test2.iml" />
+      <module fileurl="file://F:/网络编程/.idea/网络编程.iml" filepath="F:/网络编程/.idea/网络编程.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/飞机大战.iml" filepath="$PROJECT_DIR$/.idea/飞机大战.iml" />
+    </modules>
+  </component>
+</project>
